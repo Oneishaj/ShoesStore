@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<Shoes>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th></th>
+    </tr>
+
+    @foreach(var shoe in Model)
+    {
+        <tr>
+            <td>@shoe.Title</td>
+            <td><img src="@shoe.ThumbNail" width="150" height="150"></td>
+            <td>@shoe.Price</td>
+            
+            <td>@shoe.URL</td>
+        </tr>
+    }
+</table>

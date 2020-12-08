@@ -1,0 +1,1631 @@
+{
+  "next_page": 2,
+  "totalProducts": "149536",
+  "category": "aps",
+  "products": [
+    {
+      "position": {
+        "page": 1,
+        "position": 2,
+        "global_position": 1
+      },
+      "asin": "B08972TRBJ",
+      "price": {
+        "discounted": false,
+        "current_price": 42.99,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 7579,
+        "rating": 4.2
+      },
+      "url": "https://www.amazon.com/dp/B08972TRBJ",
+      "score": "31831.80",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "UMYOGO Mens Athletic Walking Blade Running Tennis Shoes Fashion Sneakers",
+      "thumbnail": "https://m.media-amazon.com/images/I/81pKynMx8dL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 3,
+        "global_position": 2
+      },
+      "asin": "B07SLM5L14",
+      "price": {
+        "discounted": true,
+        "current_price": 99.95,
+        "currency": "USD",
+        "before_price": 119.95,
+        "savings_amount": 20,
+        "savings_percent": 16.67
+      },
+      "reviews": {
+        "total_reviews": 1756,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B07SLM5L14",
+      "score": "8077.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "ASICS Men's Gel-Nimbus 22 Running Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/714IYYtdp1L._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 4,
+        "global_position": 3
+      },
+      "asin": "B07K5HMSN6",
+      "price": {
+        "discounted": false,
+        "current_price": 69.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 1411,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B07K5HMSN6",
+      "score": "6490.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "ASICS Men's Gel-Cumulus 21 Running Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/71p70kGvWkL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 5,
+        "global_position": 4
+      },
+      "asin": "B07G7X4DNS",
+      "price": {
+        "discounted": true,
+        "current_price": 52.49,
+        "currency": "USD",
+        "before_price": 70,
+        "savings_amount": 17.51,
+        "savings_percent": 25.01
+      },
+      "reviews": {
+        "total_reviews": 18218,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B07G7X4DNS",
+      "score": "83802.80",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": true,
+      "title": "Under Armour Men's Charged Assert 8 Running Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/513DZ5zwCiL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 7,
+        "global_position": 6
+      },
+      "asin": "B071LF9R6G",
+      "price": {
+        "discounted": true,
+        "current_price": 46.97,
+        "currency": "USD",
+        "before_price": 70,
+        "savings_amount": 23.03,
+        "savings_percent": 32.9
+      },
+      "reviews": {
+        "total_reviews": 32649,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B071LF9R6G",
+      "score": "153450.30",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": true,
+      "title": "adidas Women's Cloudfoam Pure Running Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/81zc8i+8qfL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 8,
+        "global_position": 7
+      },
+      "asin": "B0106J7AZ2",
+      "price": {
+        "discounted": true,
+        "current_price": 52,
+        "currency": "USD",
+        "before_price": 65,
+        "savings_amount": 13,
+        "savings_percent": 20
+      },
+      "reviews": {
+        "total_reviews": 8369,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B0106J7AZ2",
+      "score": "38497.40",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "adidas Originals Men's Seeley Sneaker",
+      "thumbnail": "https://m.media-amazon.com/images/I/71+ndfCKGUL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 9,
+        "global_position": 8
+      },
+      "asin": "B00KWK8BKE",
+      "price": {
+        "discounted": false,
+        "current_price": 79.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 11200,
+        "rating": 4.5
+      },
+      "url": "https://www.amazon.com/dp/B00KWK8BKE",
+      "score": "50400.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": true,
+      "title": "Columbia Men's Newton Ridge Plus Ii Waterproof Hiking Boot Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/81Gds5w73GL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 10,
+        "global_position": 9
+      },
+      "asin": "B01HFPP5C0",
+      "price": {
+        "discounted": true,
+        "current_price": 89.54,
+        "currency": "USD",
+        "before_price": 99.95,
+        "savings_amount": 10.41,
+        "savings_percent": 10.42
+      },
+      "reviews": {
+        "total_reviews": 10438,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B01HFPP5C0",
+      "score": "48014.80",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Merrell Men's Moab 2 Vent Hiking Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/81ukWRuhzrL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 11,
+        "global_position": 10
+      },
+      "asin": "B0725P4GST",
+      "price": {
+        "discounted": true,
+        "current_price": 49.99,
+        "currency": "USD",
+        "before_price": 65,
+        "savings_amount": 15.01,
+        "savings_percent": 23.09
+      },
+      "reviews": {
+        "total_reviews": 7241,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B0725P4GST",
+      "score": "33308.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "adidas Men's Lite Racer Adapt Running Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/81WqANXnjaL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 12,
+        "global_position": 11
+      },
+      "asin": "B083HYNJ6Q",
+      "price": {
+        "discounted": false,
+        "current_price": 42.99,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 9061,
+        "rating": 4.3
+      },
+      "url": "https://www.amazon.com/dp/B083HYNJ6Q",
+      "score": "38962.30",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "UMYOGO Women's Running Shoes Non Slip Athletic Tennis Walking Blade Type Sneakers",
+      "thumbnail": "https://m.media-amazon.com/images/I/71DR-0lUX6L._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 13,
+        "global_position": 12
+      },
+      "asin": "B0812KVL6F",
+      "price": {
+        "discounted": true,
+        "current_price": 43.99,
+        "currency": "USD",
+        "before_price": 55,
+        "savings_amount": 11.01,
+        "savings_percent": 20.02
+      },
+      "reviews": {
+        "total_reviews": 284,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B0812KVL6F",
+      "score": "1334.80",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "adidas Unisex-Child Duramo Sl Shoes Running",
+      "thumbnail": "https://m.media-amazon.com/images/I/71GodiIPjaL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 14,
+        "global_position": 13
+      },
+      "asin": "B07PYYLSRL",
+      "price": {
+        "discounted": true,
+        "current_price": 43.5,
+        "currency": "USD",
+        "before_price": 58,
+        "savings_amount": 14.5,
+        "savings_percent": 25
+      },
+      "reviews": {
+        "total_reviews": 1047,
+        "rating": 4.8
+      },
+      "url": "https://www.amazon.com/dp/B07PYYLSRL",
+      "score": "5025.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Under Armour Kids' Grade School Charged Pursuit 2 Sneaker",
+      "thumbnail": "https://m.media-amazon.com/images/I/715CU0VEksL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 15,
+        "global_position": 14
+      },
+      "asin": "B07B422CBG",
+      "price": {
+        "discounted": false,
+        "current_price": 69.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 16860,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B07B422CBG",
+      "score": "77556.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": true,
+      "title": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
+      "thumbnail": "https://m.media-amazon.com/images/I/71I2Hf4x0SL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 16,
+        "global_position": 15
+      },
+      "asin": "B002JCST14",
+      "price": {
+        "discounted": true,
+        "current_price": 44.99,
+        "currency": "USD",
+        "before_price": 49.99,
+        "savings_amount": 5,
+        "savings_percent": 10
+      },
+      "reviews": {
+        "total_reviews": 41955,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B002JCST14",
+      "score": "192993.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Crocs Men's and Women's Crocband Clog | Slip on Shoes | Casual Water Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/71JMxNVKkTL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 17,
+        "global_position": 16
+      },
+      "asin": "B08HQGNL9C",
+      "price": {
+        "discounted": false,
+        "current_price": 29.99,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 155,
+        "rating": 4.1
+      },
+      "url": "https://www.amazon.com/dp/B08HQGNL9C",
+      "score": "635.50",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "konhill Men's Slip on Loafers Walking Shoes - Mesh Casual Tennis Sneaker",
+      "thumbnail": "https://m.media-amazon.com/images/I/61yIDEOQ6KL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 18,
+        "global_position": 17
+      },
+      "asin": "B07SH6QVXM",
+      "price": {
+        "discounted": true,
+        "current_price": 21.59,
+        "currency": "USD",
+        "before_price": 26.99,
+        "savings_amount": 5.4,
+        "savings_percent": 20.01
+      },
+      "reviews": {
+        "total_reviews": 3315,
+        "rating": 4
+      },
+      "url": "https://www.amazon.com/dp/B07SH6QVXM",
+      "score": "13260.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "KEEZMZ Men's Running Shoes Fashion Breathable Sneakers Mesh Soft Sole Casual Athletic Lightweight",
+      "thumbnail": "https://m.media-amazon.com/images/I/81vaSJ3e7QL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 19,
+        "global_position": 18
+      },
+      "asin": "B07KJCS54Y",
+      "price": {
+        "discounted": true,
+        "current_price": 79.95,
+        "currency": "USD",
+        "before_price": 120,
+        "savings_amount": 40.05,
+        "savings_percent": 33.38
+      },
+      "reviews": {
+        "total_reviews": 1739,
+        "rating": 4.5
+      },
+      "url": "https://www.amazon.com/dp/B07KJCS54Y",
+      "score": "7825.50",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "ASICS Gel-Quantum 180 4 Men's Running Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/61FAJJwiIWL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 20,
+        "global_position": 19
+      },
+      "asin": "B08B8ZVN5W",
+      "price": {
+        "discounted": false,
+        "current_price": 134.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 10,
+        "rating": 4.4
+      },
+      "url": "https://www.amazon.com/dp/B08B8ZVN5W",
+      "score": "44.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Tommaso Strada Aria Knit Lace Up Dual Compatible Cycling Shoe and Bundle, SPD, Delta, Black",
+      "thumbnail": "https://m.media-amazon.com/images/I/611GNc-t4bL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 21,
+        "global_position": 20
+      },
+      "asin": "B07Q2L46WS",
+      "price": {
+        "discounted": false,
+        "current_price": 42.99,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 7576,
+        "rating": 4.2
+      },
+      "url": "https://www.amazon.com/dp/B07Q2L46WS",
+      "score": "31819.20",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "UMYOGO Mens Athletic Walking Blade Running Tennis Shoes Fashion Sneakers",
+      "thumbnail": "https://m.media-amazon.com/images/I/71t9MVTkViL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 22,
+        "global_position": 21
+      },
+      "asin": "B08CVK4P58",
+      "price": {
+        "discounted": false,
+        "current_price": 28.99,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 68,
+        "rating": 4.3
+      },
+      "url": "https://www.amazon.com/dp/B08CVK4P58",
+      "score": "292.40",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Biacolum Mens Non Slip Running Shoes Breathable Lightweight Sneakers Slip Resistant Athletic Sports Gym Work Tennis Shoes…",
+      "thumbnail": "https://m.media-amazon.com/images/I/71sPhKsY6WL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 23,
+        "global_position": 22
+      },
+      "asin": "B00D881D2A",
+      "price": {
+        "discounted": true,
+        "current_price": 52.47,
+        "currency": "USD",
+        "before_price": 57,
+        "savings_amount": 4.53,
+        "savings_percent": 7.95
+      },
+      "reviews": {
+        "total_reviews": 26665,
+        "rating": 4.5
+      },
+      "url": "https://www.amazon.com/dp/B00D881D2A",
+      "score": "119992.50",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": true,
+      "title": "Skechers Men's Afterburn Memory-Foam Lace-up Sneaker",
+      "thumbnail": "https://m.media-amazon.com/images/I/71+BksVBGTL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 24,
+        "global_position": 23
+      },
+      "asin": "B0743XCYWP",
+      "price": {
+        "discounted": true,
+        "current_price": 45.5,
+        "currency": "USD",
+        "before_price": 65,
+        "savings_amount": 19.5,
+        "savings_percent": 30
+      },
+      "reviews": {
+        "total_reviews": 9552,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B0743XCYWP",
+      "score": "43939.20",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Fila Women's Disruptor II Sneaker",
+      "thumbnail": "https://m.media-amazon.com/images/I/71ANbA7wX+L._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 25,
+        "global_position": 24
+      },
+      "asin": "B00RKL50NO",
+      "price": {
+        "discounted": false,
+        "current_price": 160,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 1024,
+        "rating": 4.5
+      },
+      "url": "https://www.amazon.com/dp/B00RKL50NO",
+      "score": "4608.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Timberland PRO Men's 6 Inch Rigmaster XT Steel-Toe Waterproof Work Boot",
+      "thumbnail": "https://m.media-amazon.com/images/I/81sMXlFYczL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 26,
+        "global_position": 25
+      },
+      "asin": "B00V3MNZD8",
+      "price": {
+        "discounted": false,
+        "current_price": 69.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 13301,
+        "rating": 4.5
+      },
+      "url": "https://www.amazon.com/dp/B00V3MNZD8",
+      "score": "59854.50",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "New Balance Men's 623 V3 Casual Comfort Cross Trainer",
+      "thumbnail": "https://m.media-amazon.com/images/I/716AX+HoydL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 27,
+        "global_position": 26
+      },
+      "asin": "B084MN3JW8",
+      "price": {
+        "discounted": true,
+        "current_price": 63.35,
+        "currency": "USD",
+        "before_price": 79.99,
+        "savings_amount": 16.64,
+        "savings_percent": 20.8
+      },
+      "reviews": {
+        "total_reviews": 2258,
+        "rating": 4.5
+      },
+      "url": "https://www.amazon.com/dp/B084MN3JW8",
+      "score": "10161.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Nike Men's Air Zoom Pegasus 34 Running Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/61vj7j-P1IL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 28,
+        "global_position": 27
+      },
+      "asin": "B000KRBQRE",
+      "price": {
+        "discounted": true,
+        "current_price": 70.75,
+        "currency": "USD",
+        "before_price": 79.95,
+        "savings_amount": 9.2,
+        "savings_percent": 11.51
+      },
+      "reviews": {
+        "total_reviews": 12384,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B000KRBQRE",
+      "score": "58204.80",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Merrell Men's Jungle Moc Slip-On Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/81jxt1lK67L._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 29,
+        "global_position": 28
+      },
+      "asin": "B07C2Y4JBG",
+      "price": {
+        "discounted": true,
+        "current_price": 60.64,
+        "currency": "USD",
+        "before_price": 64.95,
+        "savings_amount": 4.31,
+        "savings_percent": 6.64
+      },
+      "reviews": {
+        "total_reviews": 22243,
+        "rating": 4.5
+      },
+      "url": "https://www.amazon.com/dp/B07C2Y4JBG",
+      "score": "100093.50",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "New Balance Women's FuelCore Nergize V1 Sneaker",
+      "thumbnail": "https://m.media-amazon.com/images/I/71GyzXlZlRL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 30,
+        "global_position": 29
+      },
+      "asin": "B01IA6CFTY",
+      "price": {
+        "discounted": true,
+        "current_price": 52.37,
+        "currency": "USD",
+        "before_price": 70,
+        "savings_amount": 17.63,
+        "savings_percent": 25.19
+      },
+      "reviews": {
+        "total_reviews": 6456,
+        "rating": 4.4
+      },
+      "url": "https://www.amazon.com/dp/B01IA6CFTY",
+      "score": "28406.40",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Skechers for Work 77055 Cankton Athletic Steel Toe work sneaker",
+      "thumbnail": "https://m.media-amazon.com/images/I/81LndGprfVL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 31,
+        "global_position": 30
+      },
+      "asin": "B086T622QT",
+      "price": {
+        "discounted": false,
+        "current_price": 129.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 2539,
+        "rating": 4.8
+      },
+      "url": "https://www.amazon.com/dp/B086T622QT",
+      "score": "12187.20",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Brooks Women's Ghost 13",
+      "thumbnail": "https://m.media-amazon.com/images/I/812PKJhj9iL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 32,
+        "global_position": 31
+      },
+      "asin": "B07MP1T9QP",
+      "price": {
+        "discounted": false,
+        "current_price": 79.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 471,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B07MP1T9QP",
+      "score": "2213.70",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "ASICS Men's Gel-Quantum 360 4 LE Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/61guHrDQbrL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 33,
+        "global_position": 32
+      },
+      "asin": "B000W922KA",
+      "price": {
+        "discounted": true,
+        "current_price": 59.33,
+        "currency": "USD",
+        "before_price": 100,
+        "savings_amount": 40.67,
+        "savings_percent": 40.67
+      },
+      "reviews": {
+        "total_reviews": 8754,
+        "rating": 4.4
+      },
+      "url": "https://www.amazon.com/dp/B000W922KA",
+      "score": "38517.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Rockport Men's Eureka Walking Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/61rtuwpKtoL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 34,
+        "global_position": 33
+      },
+      "asin": "B07D7QXN5G",
+      "price": {
+        "discounted": true,
+        "current_price": 79.95,
+        "currency": "USD",
+        "before_price": 87.95,
+        "savings_amount": 8,
+        "savings_percent": 9.1
+      },
+      "reviews": {
+        "total_reviews": 551,
+        "rating": 4.4
+      },
+      "url": "https://www.amazon.com/dp/B07D7QXN5G",
+      "score": "2424.40",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "ASICS Men's Gel-Quantum 360 4 Running Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/41gQ13xyKlL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 35,
+        "global_position": 34
+      },
+      "asin": "B07LBM8PVP",
+      "price": {
+        "discounted": false,
+        "current_price": 35.99,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 9049,
+        "rating": 4
+      },
+      "url": "https://www.amazon.com/dp/B07LBM8PVP",
+      "score": "36196.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Feetmat Men's Non Slip Gym Sneakers Lightweight Breathable Athletic Running Walking Tennis Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/71VU2qhP6HL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 36,
+        "global_position": 35
+      },
+      "asin": "B08GQ2PGLN",
+      "price": {
+        "discounted": false,
+        "current_price": 35.99,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 219,
+        "rating": 4.1
+      },
+      "url": "https://www.amazon.com/dp/B08GQ2PGLN",
+      "score": "897.90",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Troadlop Men's Running Shoes Non Slip Shoes Breathable Lightweight Sneakers Slip Resistant Athletic Sports Walking Gym Wor...",
+      "thumbnail": "https://m.media-amazon.com/images/I/61joEIfdF1L._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 37,
+        "global_position": 36
+      },
+      "asin": "B07H98XWC8",
+      "price": {
+        "discounted": false,
+        "current_price": 84.62,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 73,
+        "rating": 4.5
+      },
+      "url": "https://www.amazon.com/dp/B07H98XWC8",
+      "score": "328.50",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Nike Women's Running Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/51DbjvvzViL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 38,
+        "global_position": 37
+      },
+      "asin": "B07V263S55",
+      "price": {
+        "discounted": false,
+        "current_price": 94.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 103,
+        "rating": 4.4
+      },
+      "url": "https://www.amazon.com/dp/B07V263S55",
+      "score": "453.20",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "K-Swiss Men's Express Light Pickleball Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/612a66b+ZPL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 39,
+        "global_position": 38
+      },
+      "asin": "B07JHCF9DY",
+      "price": {
+        "discounted": false,
+        "current_price": 59.5,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 13876,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B07JHCF9DY",
+      "score": "63829.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "ASICS Men's Gel-Venture 7 Trail Running Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Frioaq95L._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 40,
+        "global_position": 39
+      },
+      "asin": "B07JN5SQSQ",
+      "price": {
+        "discounted": false,
+        "current_price": 44.99,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 20537,
+        "rating": 4.8
+      },
+      "url": "https://www.amazon.com/dp/B07JN5SQSQ",
+      "score": "98577.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Crocs Unisex-Adult Classic Tie Dye Clog | Comfortable Slip on Water Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/71On3x0hNoL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 41,
+        "global_position": 40
+      },
+      "asin": "B06WP4XV8Q",
+      "price": {
+        "discounted": false,
+        "current_price": 60,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 7299,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B06WP4XV8Q",
+      "score": "34305.30",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Hey Dude Men's Wally Stretch Loafer Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/61lOgA+dQgL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 42,
+        "global_position": 41
+      },
+      "asin": "B08CZKP9WS",
+      "price": {
+        "discounted": false,
+        "current_price": 29.49,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 706,
+        "rating": 4.2
+      },
+      "url": "https://www.amazon.com/dp/B08CZKP9WS",
+      "score": "2965.20",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Damyuan Men's Sport Gym Running Shoes Walking Shoes Casual Lace Up Lightweight",
+      "thumbnail": "https://m.media-amazon.com/images/I/61ZCLVLYjsL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 43,
+        "global_position": 42
+      },
+      "asin": "B00F5VEG54",
+      "price": {
+        "discounted": true,
+        "current_price": 81.58,
+        "currency": "USD",
+        "before_price": 89.95,
+        "savings_amount": 8.37,
+        "savings_percent": 9.31
+      },
+      "reviews": {
+        "total_reviews": 2684,
+        "rating": 4.3
+      },
+      "url": "https://www.amazon.com/dp/B00F5VEG54",
+      "score": "11541.20",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "New Balance Women's 877 V1 Walking Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/81PR0wKUtkL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 44,
+        "global_position": 43
+      },
+      "asin": "B07KTKQTHB",
+      "price": {
+        "discounted": true,
+        "current_price": 58.4,
+        "currency": "USD",
+        "before_price": 65,
+        "savings_amount": 6.6,
+        "savings_percent": 10.15
+      },
+      "reviews": {
+        "total_reviews": 9504,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B07KTKQTHB",
+      "score": "44668.80",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": true,
+      "title": "adidas Men's Grand Court Sneaker",
+      "thumbnail": "https://m.media-amazon.com/images/I/71+u11SAA7L._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 45,
+        "global_position": 44
+      },
+      "asin": "B086T6XRRN",
+      "price": {
+        "discounted": false,
+        "current_price": 129.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 94,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B086T6XRRN",
+      "score": "441.80",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Brooks Men's Adrenaline GTS 21",
+      "thumbnail": "https://m.media-amazon.com/images/I/81PCCkLHmeL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 46,
+        "global_position": 45
+      },
+      "asin": "B001CPY30U",
+      "price": {
+        "discounted": false,
+        "current_price": 104,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 2334,
+        "rating": 4.5
+      },
+      "url": "https://www.amazon.com/dp/B001CPY30U",
+      "score": "10503.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Nike Air Max Torch 3 Men's Running Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/71wbXtpEwQL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 47,
+        "global_position": 46
+      },
+      "asin": "B07D7FW5ZB",
+      "price": {
+        "discounted": true,
+        "current_price": 89.73,
+        "currency": "USD",
+        "before_price": 120,
+        "savings_amount": 30.27,
+        "savings_percent": 25.23
+      },
+      "reviews": {
+        "total_reviews": 2673,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B07D7FW5ZB",
+      "score": "12563.10",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "ASICS Men's GT-2000 7 Running Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/81uuu4ZpX9L._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 48,
+        "global_position": 47
+      },
+      "asin": "B07DPSH93K",
+      "price": {
+        "discounted": false,
+        "current_price": 54.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 7028,
+        "rating": 4.8
+      },
+      "url": "https://www.amazon.com/dp/B07DPSH93K",
+      "score": "33734.40",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "Hey Dude Women's Wendy Loafer Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/61YWoo-3NTL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 49,
+        "global_position": 48
+      },
+      "asin": "B07KMVLMFZ",
+      "price": {
+        "discounted": false,
+        "current_price": 36.99,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 7429,
+        "rating": 4.4
+      },
+      "url": "https://www.amazon.com/dp/B07KMVLMFZ",
+      "score": "32687.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "WHITIN Men's Minimalist Trail Runner | Wide Toe Box | Barefoot Inspired",
+      "thumbnail": "https://m.media-amazon.com/images/I/71ADDdRAqpL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 50,
+        "global_position": 49
+      },
+      "asin": "B083CTK6ZS",
+      "price": {
+        "discounted": false,
+        "current_price": 125,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 1350,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B083CTK6ZS",
+      "score": "6210.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Venzo Bicycle Men's or Women's Road Cycling Riding Shoes - 3 Straps- Compatible with Peloton Shimano SPD & Look ARC Delta ...",
+      "thumbnail": "https://m.media-amazon.com/images/I/71i1ZxVyQSL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 51,
+        "global_position": 50
+      },
+      "asin": "B07L6JKV1Z",
+      "price": {
+        "discounted": false,
+        "current_price": 0,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 9245,
+        "rating": 4.8
+      },
+      "url": "https://www.amazon.com/dp/B07L6JKV1Z",
+      "score": "44376.00",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "Brooks Ghost 12 Running Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/71JvtVWkIAL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 52,
+        "global_position": 51
+      },
+      "asin": "B08D6MY77N",
+      "price": {
+        "discounted": false,
+        "current_price": 59.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 11117,
+        "rating": 4.8
+      },
+      "url": "https://www.amazon.com/dp/B08D6MY77N",
+      "score": "53361.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": false,
+      "title": "Hey Dude Men's Wally Sox Loafer",
+      "thumbnail": "https://m.media-amazon.com/images/I/81VcKuIElIL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 53,
+        "global_position": 52
+      },
+      "asin": "B074KM2GJ3",
+      "price": {
+        "discounted": false,
+        "current_price": 230,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 1378,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B074KM2GJ3",
+      "score": "6476.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Salomon Men's Quest 4d 3 GTX Backpacking Boots",
+      "thumbnail": "https://m.media-amazon.com/images/I/81Y2VTM-3AL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 54,
+        "global_position": 53
+      },
+      "asin": "B07RKYB4W8",
+      "price": {
+        "discounted": true,
+        "current_price": 155,
+        "currency": "USD",
+        "before_price": 180,
+        "savings_amount": 25,
+        "savings_percent": 13.89
+      },
+      "reviews": {
+        "total_reviews": 3712,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B07RKYB4W8",
+      "score": "17446.40",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "adidas Men's Ultraboost 20 Sneaker",
+      "thumbnail": "https://m.media-amazon.com/images/I/71V0hCTMAML._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 55,
+        "global_position": 54
+      },
+      "asin": "B08KXX6H2V",
+      "price": {
+        "discounted": false,
+        "current_price": 59.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 73,
+        "rating": 4.3
+      },
+      "url": "https://www.amazon.com/dp/B08KXX6H2V",
+      "score": "313.90",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": true,
+      "amazonPrime": true,
+      "title": "Men's Road Bike Cycling Shoes Spin Shoes with Compatible Cleat Peloton Shoe with SPD and Delta for Men Lock Pedal Bike Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/615j5dEPncL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 56,
+        "global_position": 55
+      },
+      "asin": "B07Q24QX22",
+      "price": {
+        "discounted": true,
+        "current_price": 52.5,
+        "currency": "USD",
+        "before_price": 70,
+        "savings_amount": 17.5,
+        "savings_percent": 25
+      },
+      "reviews": {
+        "total_reviews": 4958,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B07Q24QX22",
+      "score": "23302.60",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Under Armour Men's Charged Pursuit 2 Running Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/81tgTwCGkUL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 57,
+        "global_position": 56
+      },
+      "asin": "B0842P27B7",
+      "price": {
+        "discounted": true,
+        "current_price": 120.79,
+        "currency": "USD",
+        "before_price": 130,
+        "savings_amount": 9.21,
+        "savings_percent": 7.08
+      },
+      "reviews": {
+        "total_reviews": 1572,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B0842P27B7",
+      "score": "7388.40",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "Brooks Men's Ghost 13",
+      "thumbnail": "https://m.media-amazon.com/images/I/81Sny91Rc9L._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 58,
+        "global_position": 57
+      },
+      "asin": "B07RLYLN6H",
+      "price": {
+        "discounted": true,
+        "current_price": 137.69,
+        "currency": "USD",
+        "before_price": 180,
+        "savings_amount": 42.31,
+        "savings_percent": 23.51
+      },
+      "reviews": {
+        "total_reviews": 2105,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B07RLYLN6H",
+      "score": "9893.50",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": true,
+      "title": "adidas Women's Ultraboost 20 Running Shoe",
+      "thumbnail": "https://m.media-amazon.com/images/I/714jXhLhIdL._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 59,
+        "global_position": 58
+      },
+      "asin": "B07DM2DFCP",
+      "price": {
+        "discounted": false,
+        "current_price": 79.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 3692,
+        "rating": 4.6
+      },
+      "url": "https://www.amazon.com/dp/B07DM2DFCP",
+      "score": "16983.20",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "ASICS Men's Gel-Nimbus 21 Running Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/71B5NrNU9+L._AC_UL320_.jpg"
+    },
+    {
+      "position": {
+        "page": 1,
+        "position": 60,
+        "global_position": 59
+      },
+      "asin": "B07D7F9D2C",
+      "price": {
+        "discounted": false,
+        "current_price": 79.95,
+        "currency": "USD",
+        "before_price": 0,
+        "savings_amount": 0,
+        "savings_percent": 0
+      },
+      "reviews": {
+        "total_reviews": 2672,
+        "rating": 4.7
+      },
+      "url": "https://www.amazon.com/dp/B07D7F9D2C",
+      "score": "12558.40",
+      "sponsored": false,
+      "amazonChoice": false,
+      "bestSeller": false,
+      "amazonPrime": false,
+      "title": "ASICS Men's GT-2000 7 Running Shoes",
+      "thumbnail": "https://m.media-amazon.com/images/I/81uuu4ZpX9L._AC_UL320_.jpg"
+    }
+  ]
+}
