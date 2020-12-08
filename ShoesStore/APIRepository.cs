@@ -27,8 +27,8 @@ namespace ShoesStore
                 var shoe = new Shoes();
                 shoe.ThumbNail = (string)item["thumbnail"];
                 shoe.Title = (string)item["title"];
-                shoe.Price = Convert.ToDouble(item["price"]);
-                shoe.URL = (string)item["url"];
+                shoe.Rating = (double)item["reviews"]["rating"];
+                shoe.Price = (double)item["price"]["current_price"];
                 shoesList.Add(shoe);
             }
             return shoesList;
